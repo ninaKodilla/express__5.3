@@ -1,1 +1,1 @@
-*********just write npm start**************
+*********just write node server.js**************
