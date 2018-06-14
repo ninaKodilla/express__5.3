@@ -1,1 +1,1 @@
-*********just write node server.js**************
+just write node server.js
